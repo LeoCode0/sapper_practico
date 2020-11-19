@@ -24,6 +24,23 @@
 
 <svelte:head>
   <title>LeoCode0</title>
+  <meta name="description" content="Blog de LeoCode0" />
+  
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@LeoCode0" />
+  <meta name="twitter:creator" content="@LeoCode0" />
+  <meta name="twitter:title" content="LeoCode0 Blog" />
+  <meta name="twitter:description" content="Blog de LeoCode0"/>
+  <meta name="twitter:image" content="https://arepa.s3.amazonaws.com/blogpost-cover.png" />
+
+  <meta name="og:title" content="LeoCode0" >
+  <meta name="og:description" content="Blog de LeoCode0" >
+  <meta name="og:image" content="https://arepa.s3.amazonaws.com/blogpost-cover.png" />
+  <meta name="og:url" content="/" />
+  <meta name="og:site_name" content="LeoCode0" />
+  <meta name="og:locale" content="es_ES" />
+  <meta name="og:type" content="article" />
+  <meta name="fb:app_id" content="" />
 </svelte:head>
 
 <div class="Home">
